@@ -1,0 +1,270 @@
+2022-02-02 09:08:47 INFO  PropertyFile_Configure:18 - Information
+2022-02-02 09:08:47 WARN  PropertyFile_Configure:20 - Warning
+2022-02-02 09:08:47 ERROR PropertyFile_Configure:22 - Error
+2022-02-02 09:08:47 FATAL PropertyFile_Configure:24 - Fatal
+2022-02-02 16:21:48 INFO  Runner:23 - Browser Launch
+2022-02-02 16:28:46 INFO  Runner:23 - Browser Launch
+2022-02-02 16:29:07 INFO  Runner:31 - fetch the username and password from excel
+2022-02-02 16:29:15 INFO  Runner:41 - fetch the location and hotels from excel
+2022-02-02 16:29:15 INFO  Runner:49 - fetch the roomtype and roomno from excel
+2022-02-02 16:29:16 INFO  Runner:57 - fetch the check-in and check-out date in excel
+2022-02-02 16:32:29 INFO  Runner:23 - Browser Launch
+2022-02-02 16:32:44 INFO  Runner:31 - fetch the username and password from excel
+2022-02-02 16:32:51 INFO  Runner:41 - fetch the location and hotels from excel
+2022-02-02 16:32:52 INFO  Runner:49 - fetch the roomtype and roomno from excel
+2022-02-02 16:32:53 INFO  Runner:57 - fetch the check-in and check-out date in excel
+2022-02-02 16:39:13 INFO  Runner:23 - Browser Launch
+2022-02-02 16:39:29 INFO  Runner:31 - fetch the username and password from excel
+2022-02-02 16:39:34 INFO  Runner:41 - fetch the location and hotels from excel
+2022-02-02 16:39:35 INFO  Runner:49 - fetch the roomtype and roomno from excel
+2022-02-02 16:39:35 INFO  Runner:57 - fetch the check-in and check-out date in excel
+2022-02-02 18:28:17 INFO  Runner:23 - Browser Launch
+2022-02-02 18:28:26 INFO  Runner:31 - fetch the username and password from excel
+2022-02-02 18:28:30 INFO  Runner:41 - fetch the location and hotels from excel
+2022-02-02 18:28:32 INFO  Runner:49 - fetch the roomtype and roomno from excel
+2022-02-02 18:28:33 INFO  Runner:57 - fetch the check-in and check-out date in excel
+2022-02-07 18:42:28 INFO  Runner:22 - Browser Launch
+2022-02-07 18:42:29 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 18:42:31 INFO  Runner:44 - fetch the location and hotels from excel
+2022-02-07 18:47:34 INFO  Runner:22 - Browser Launch
+2022-02-07 18:47:35 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 18:47:37 INFO  Runner:44 - fetch the location and hotels from excel
+2022-02-07 18:48:43 INFO  Runner:22 - Browser Launch
+2022-02-07 18:48:44 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 18:48:45 INFO  Runner:44 - fetch the location and hotels from excel
+2022-02-07 18:50:44 INFO  Runner:22 - Browser Launch
+2022-02-07 18:50:45 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 18:50:47 INFO  Runner:44 - fetch the location and hotels from excel
+2022-02-07 18:51:29 INFO  Runner:22 - Browser Launch
+2022-02-07 18:51:30 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 18:51:32 INFO  Runner:44 - fetch the location and hotels from excel
+2022-02-07 18:59:53 INFO  Runner:22 - Browser Launch
+2022-02-07 18:59:54 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 18:59:56 INFO  Runner:44 - fetch the location and hotels from excel
+2022-02-07 19:02:36 INFO  Runner:22 - Browser Launch
+2022-02-07 19:02:36 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 19:02:44 INFO  Runner:42 - fetch the location and hotels from excel
+2022-02-07 19:02:45 INFO  Runner:50 - fetch the roomtype and roomno from excel
+2022-02-07 19:02:45 INFO  Runner:58 - fetch the check-in and check-out date in excel
+2022-02-07 19:04:52 INFO  Runner:22 - Browser Launch
+2022-02-07 19:04:52 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 19:04:54 INFO  Runner:44 - fetch the location and hotels from excel
+2022-02-07 19:04:57 INFO  Runner:52 - fetch the roomtype and roomno from excel
+2022-02-07 19:04:58 INFO  Runner:60 - fetch the check-in and check-out date in excel
+2022-02-07 19:05:47 INFO  Runner:22 - Browser Launch
+2022-02-07 19:05:48 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 19:05:50 INFO  Runner:44 - fetch the location and hotels from excel
+2022-02-07 19:05:53 INFO  Runner:52 - fetch the roomtype and roomno from excel
+2022-02-07 19:05:54 INFO  Runner:60 - fetch the check-in and check-out date in excel
+2022-02-07 19:10:19 INFO  Runner:22 - Browser Launch
+2022-02-07 19:10:20 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 19:10:25 INFO  Runner:42 - fetch the location and hotels from excel
+2022-02-07 19:10:26 INFO  Runner:50 - fetch the roomtype and roomno from excel
+2022-02-07 19:10:27 INFO  Runner:58 - fetch the check-in and check-out date in excel
+2022-02-07 19:15:53 INFO  Runner:22 - Browser Launch
+2022-02-07 19:15:54 INFO  Runner:32 - fetch the username and password from excel
+2022-02-07 19:15:59 INFO  Runner:42 - fetch the location and hotels from excel
+2022-02-07 19:16:00 INFO  Runner:50 - fetch the roomtype and roomno from excel
+2022-02-07 19:16:01 INFO  Runner:58 - fetch the check-in and check-out date in excel
+2022-02-10 16:00:57 INFO  Runner:22 - Browser Launch
+2022-02-10 16:00:58 INFO  Runner:32 - fetch the username and password from excel
+2022-02-10 16:01:08 INFO  Runner:42 - fetch the location and hotels from excel
+2022-02-10 16:01:09 INFO  Runner:50 - fetch the roomtype and roomno from excel
+2022-02-10 16:01:10 INFO  Runner:58 - fetch the check-in and check-out date in excel
+2022-02-11 15:10:28 INFO  PropertyFile_Configure:18 - Information
+2022-02-11 15:10:28 WARN  PropertyFile_Configure:20 - Warning
+2022-02-11 15:10:28 ERROR PropertyFile_Configure:22 - Error
+2022-02-11 15:10:28 FATAL PropertyFile_Configure:24 - Fatal
+2022-02-14 11:53:55 INFO  Runner:25 - Browser Launch
+2022-02-14 11:53:57 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 11:54:11 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 11:54:13 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 11:54:14 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 11:58:16 INFO  Runner:25 - Browser Launch
+2022-02-14 11:58:17 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 11:58:23 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 11:58:24 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 11:58:25 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 12:02:09 INFO  Runner:25 - Browser Launch
+2022-02-14 12:02:10 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 12:02:22 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 12:02:24 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 12:02:25 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 12:25:51 INFO  Runner:25 - Browser Launch
+2022-02-14 12:25:52 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 12:26:05 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 12:26:06 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 12:26:07 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 12:28:26 INFO  Runner:25 - Browser Launch
+2022-02-14 12:28:27 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 12:28:37 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 12:28:38 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 12:28:39 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 12:29:51 INFO  Runner:25 - Browser Launch
+2022-02-14 12:29:52 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 12:30:01 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 12:30:02 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 12:30:03 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 12:32:20 INFO  Runner:25 - Browser Launch
+2022-02-14 12:32:20 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 12:32:31 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 12:32:32 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 12:32:33 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 12:35:41 INFO  Runner:25 - Browser Launch
+2022-02-14 12:35:42 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 12:35:51 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 12:35:52 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 12:35:53 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 12:39:14 INFO  Runner:25 - Browser Launch
+2022-02-14 12:42:40 INFO  Runner:25 - Browser Launch
+2022-02-14 12:42:42 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 12:42:53 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 12:42:54 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 12:42:54 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 15:59:38 INFO  Runner:26 - Browser Launch
+2022-02-14 15:59:40 INFO  Runner:36 - fetch the username and password from excel
+2022-02-14 15:59:59 INFO  Runner:46 - fetch the location and hotels from excel
+2022-02-14 16:00:00 INFO  Runner:54 - fetch the roomtype and roomno from excel
+2022-02-14 16:00:01 INFO  Runner:62 - fetch the check-in and check-out date in excel
+2022-02-14 16:08:03 INFO  Runner:26 - Browser Launch
+2022-02-14 16:08:04 INFO  Runner:36 - fetch the username and password from excel
+2022-02-14 16:08:13 INFO  Runner:46 - fetch the location and hotels from excel
+2022-02-14 16:08:14 INFO  Runner:54 - fetch the roomtype and roomno from excel
+2022-02-14 16:08:15 INFO  Runner:62 - fetch the check-in and check-out date in excel
+2022-02-14 16:11:15 INFO  Runner:26 - Browser Launch
+2022-02-14 16:11:16 INFO  Runner:36 - fetch the username and password from excel
+2022-02-14 16:11:26 INFO  Runner:46 - fetch the location and hotels from excel
+2022-02-14 16:11:27 INFO  Runner:54 - fetch the roomtype and roomno from excel
+2022-02-14 16:11:28 INFO  Runner:62 - fetch the check-in and check-out date in excel
+2022-02-14 16:13:39 INFO  Runner:26 - Browser Launch
+2022-02-14 16:13:40 INFO  Runner:36 - fetch the username and password from excel
+2022-02-14 16:13:50 INFO  Runner:46 - fetch the location and hotels from excel
+2022-02-14 16:13:51 INFO  Runner:54 - fetch the roomtype and roomno from excel
+2022-02-14 16:13:52 INFO  Runner:62 - fetch the check-in and check-out date in excel
+2022-02-14 16:16:21 INFO  Runner:26 - Browser Launch
+2022-02-14 16:16:22 INFO  Runner:36 - fetch the username and password from excel
+2022-02-14 16:16:33 INFO  Runner:46 - fetch the location and hotels from excel
+2022-02-14 16:16:34 INFO  Runner:54 - fetch the roomtype and roomno from excel
+2022-02-14 16:16:35 INFO  Runner:62 - fetch the check-in and check-out date in excel
+2022-02-14 16:21:10 INFO  Runner:27 - Browser Launch
+2022-02-14 16:21:11 INFO  Runner:37 - fetch the username and password from excel
+2022-02-14 16:21:20 INFO  Runner:47 - fetch the location and hotels from excel
+2022-02-14 16:21:21 INFO  Runner:55 - fetch the roomtype and roomno from excel
+2022-02-14 16:21:22 INFO  Runner:63 - fetch the check-in and check-out date in excel
+2022-02-14 16:26:05 INFO  Runner:27 - Browser Launch
+2022-02-14 16:26:06 INFO  Runner:37 - fetch the username and password from excel
+2022-02-14 16:26:15 INFO  Runner:47 - fetch the location and hotels from excel
+2022-02-14 16:26:16 INFO  Runner:55 - fetch the roomtype and roomno from excel
+2022-02-14 16:26:17 INFO  Runner:63 - fetch the check-in and check-out date in excel
+2022-02-14 17:29:08 INFO  Runner:27 - Browser Launch
+2022-02-14 17:29:10 INFO  Runner:37 - fetch the username and password from excel
+2022-02-14 17:29:23 INFO  Runner:47 - fetch the location and hotels from excel
+2022-02-14 17:29:24 INFO  Runner:55 - fetch the roomtype and roomno from excel
+2022-02-14 17:29:25 INFO  Runner:63 - fetch the check-in and check-out date in excel
+2022-02-14 17:53:09 INFO  Runner:27 - Browser Launch
+2022-02-14 17:53:10 INFO  Runner:37 - fetch the username and password from excel
+2022-02-14 17:53:27 INFO  Runner:47 - fetch the location and hotels from excel
+2022-02-14 17:53:28 INFO  Runner:55 - fetch the roomtype and roomno from excel
+2022-02-14 17:53:29 INFO  Runner:63 - fetch the check-in and check-out date in excel
+2022-02-14 17:55:20 INFO  Runner:27 - Browser Launch
+2022-02-14 17:55:21 INFO  Runner:37 - fetch the username and password from excel
+2022-02-14 17:55:30 INFO  Runner:47 - fetch the location and hotels from excel
+2022-02-14 17:55:31 INFO  Runner:55 - fetch the roomtype and roomno from excel
+2022-02-14 17:55:32 INFO  Runner:63 - fetch the check-in and check-out date in excel
+2022-02-14 18:01:45 INFO  Runner:27 - Browser Launch
+2022-02-14 18:01:46 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:02:34 INFO  Runner:27 - Browser Launch
+2022-02-14 18:02:35 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:04:20 INFO  Runner:27 - Browser Launch
+2022-02-14 18:04:21 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:05:02 INFO  Runner:27 - Browser Launch
+2022-02-14 18:05:03 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:05:10 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 18:05:11 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 18:05:13 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 18:06:57 INFO  Runner:27 - Browser Launch
+2022-02-14 18:06:58 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:07:08 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 18:07:09 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 18:07:10 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 18:08:24 INFO  Runner:27 - Browser Launch
+2022-02-14 18:08:25 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:08:31 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 18:08:32 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 18:08:33 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 18:10:25 INFO  Runner:27 - Browser Launch
+2022-02-14 18:10:26 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:10:32 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 18:10:33 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 18:10:34 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 18:11:57 INFO  Runner:27 - Browser Launch
+2022-02-14 18:11:58 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:12:03 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 18:12:05 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 18:12:06 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 18:13:26 INFO  Runner:27 - Browser Launch
+2022-02-14 18:13:27 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:13:32 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 18:13:33 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 18:13:34 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 18:15:20 INFO  Runner:27 - Browser Launch
+2022-02-14 18:15:21 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:15:26 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 18:15:27 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 18:15:28 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 18:17:52 INFO  Runner:27 - Browser Launch
+2022-02-14 18:17:53 INFO  Runner:35 - fetch the username and password from excel
+2022-02-14 18:17:58 INFO  Runner:45 - fetch the location and hotels from excel
+2022-02-14 18:17:59 INFO  Runner:53 - fetch the roomtype and roomno from excel
+2022-02-14 18:18:00 INFO  Runner:61 - fetch the check-in and check-out date in excel
+2022-02-14 18:22:54 INFO  Runner:22 - Browser Launch
+2022-02-14 18:22:54 INFO  Runner:30 - fetch the username and password from excel
+2022-02-14 18:23:03 INFO  Runner:40 - fetch the location and hotels from excel
+2022-02-14 18:23:04 INFO  Runner:48 - fetch the roomtype and roomno from excel
+2022-02-14 18:23:06 INFO  Runner:56 - fetch the check-in and check-out date in excel
+2022-02-14 18:52:12 INFO  Runner:22 - Browser Launch
+2022-02-14 18:52:13 INFO  Runner:30 - fetch the username and password from excel
+2022-02-14 18:52:18 INFO  Runner:40 - fetch the location and hotels from excel
+2022-02-14 18:52:19 INFO  Runner:48 - fetch the roomtype and roomno from excel
+2022-02-14 18:52:20 INFO  Runner:56 - fetch the check-in and check-out date in excel
+2022-02-14 18:56:22 INFO  Runner:22 - Browser Launch
+2022-02-14 18:56:24 INFO  Runner:30 - fetch the username and password from excel
+2022-02-14 18:56:36 INFO  Runner:40 - fetch the location and hotels from excel
+2022-02-14 18:56:37 INFO  Runner:48 - fetch the roomtype and roomno from excel
+2022-02-14 18:56:38 INFO  Runner:56 - fetch the check-in and check-out date in excel
+2022-02-14 18:59:46 INFO  Runner:22 - Browser Launch
+2022-02-14 18:59:47 INFO  Runner:30 - fetch the username and password from excel
+2022-02-14 18:59:54 INFO  Runner:40 - fetch the location and hotels from excel
+2022-02-14 18:59:55 INFO  Runner:48 - fetch the roomtype and roomno from excel
+2022-02-14 18:59:57 INFO  Runner:56 - fetch the check-in and check-out date in excel
+2022-02-14 19:02:41 INFO  Runner:22 - Browser Launch
+2022-02-14 19:02:42 INFO  Runner:30 - fetch the username and password from excel
+2022-02-14 19:02:56 INFO  Runner:40 - fetch the location and hotels from excel
+2022-02-14 19:02:57 INFO  Runner:48 - fetch the roomtype and roomno from excel
+2022-02-14 19:02:58 INFO  Runner:56 - fetch the check-in and check-out date in excel
+2022-02-14 19:05:44 INFO  Runner:22 - Browser Launch
+2022-02-14 19:07:35 INFO  Runner:22 - Browser Launch
+2022-02-14 19:07:36 INFO  Runner:30 - fetch the username and password from excel
+2022-02-14 19:07:54 INFO  Runner:40 - fetch the location and hotels from excel
+2022-02-14 19:07:56 INFO  Runner:48 - fetch the roomtype and roomno from excel
+2022-02-14 19:07:57 INFO  Runner:56 - fetch the check-in and check-out date in excel
+2022-02-14 19:18:00 INFO  Runner:25 - Browser Launch
+2022-02-14 19:18:01 INFO  Runner:33 - fetch the username and password from excel
+2022-02-14 19:18:11 INFO  Runner:43 - fetch the location and hotels from excel
+2022-02-14 19:18:12 INFO  Runner:51 - fetch the roomtype and roomno from excel
+2022-02-14 19:18:13 INFO  Runner:59 - fetch the check-in and check-out date in excel
+2022-02-14 19:19:28 INFO  Runner:25 - Browser Launch
+2022-02-14 19:19:29 INFO  Runner:33 - fetch the username and password from excel
+2022-02-14 19:19:39 INFO  Runner:43 - fetch the location and hotels from excel
+2022-02-14 19:19:39 INFO  Runner:51 - fetch the roomtype and roomno from excel
+2022-02-14 19:19:40 INFO  Runner:59 - fetch the check-in and check-out date in excel
+2022-02-17 15:32:28 INFO  Runner:26 - Browser Launch
+2022-02-17 15:32:28 INFO  Runner:26 - Browser Launch
+2022-02-17 15:32:33 INFO  Runner:34 - fetch the username and password from excel
+2022-02-17 15:32:33 INFO  Runner:34 - fetch the username and password from excel
+2022-02-17 15:33:15 INFO  Runner:44 - fetch the location and hotels from excel
+2022-02-17 15:33:19 INFO  Runner:52 - fetch the roomtype and roomno from excel
+2022-02-17 15:33:20 INFO  Runner:44 - fetch the location and hotels from excel
+2022-02-17 15:33:25 INFO  Runner:60 - fetch the check-in and check-out date in excel
+2022-02-17 15:33:26 INFO  Runner:52 - fetch the roomtype and roomno from excel
+2022-02-17 15:33:28 INFO  Runner:60 - fetch the check-in and check-out date in excel
